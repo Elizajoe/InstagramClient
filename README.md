@@ -2,11 +2,11 @@
 View Popular photos on Instagram
 
 I have created a basic Instagram Client Viewer to View Popular Photos on Instagram.
+
 It took me about 6 hours to complete this app.
 
 Following are the User Stories:
 1. The User can scroll through current popular photos from Instagram.
-
 2. For each photo displayed, user can see the following details:
     Require :Graphic, Caption, Username.
     Optional : Like Count and a Like Button.
